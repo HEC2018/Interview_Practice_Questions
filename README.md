@@ -10,3 +10,4 @@ Time stamps:
 2021-04-08: Leetcode points: 1267. Question solved: 195. Contest Rating: 1719. Contest Ranking: 15889 (Global) 248 (Canada)  
 2021-04-15: Leetcode points: 1349. Question solved: 206. Contest Rating: 1775. Contest Ranking: 11699 (Global) 189 (Canada)  
 2021-04-22: Leetcode points: 1425. Question solved: 216. Contest Rating: 1719. Contest Ranking: 17649 (Global) 247 (Canada)  
+2021-05-05: Leetcode points: 1797. Question solved: 245. Contest Rating: 1781. Contest Ranking: 11759 (Global) 186 (Canada)  
